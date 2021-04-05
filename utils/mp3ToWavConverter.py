@@ -5,8 +5,8 @@ import csv
 
 
 src_name = []
-src_path = 'C:/Users/Kazihar/Documents/ML/Speech recognition/cv-corpus-6.1-2020-12-11/es/clips/'
-dest_path = 'C:/Users/Kazihar/Documents/ML/Speech recognition/cv-corpus-6.1-2020-12-11/es/converted/'
+src_path = './clips/'
+dest_path = './converted/'
 
 print(os.getcwd())
 
